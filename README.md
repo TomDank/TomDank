@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @TomDank
-- 👀 My interest are in Software Development fundamentally in Java
+- 👋 Hi, I’m Thomas and I am the lizard guy in the profile pic 
+- 👀 My interest are in Software Development fundamentally in Java, Python and Ruby
 - 🌱 I’m currently learning Web Application Devlopment to be able to build fancy web applications.
-- 💞️ I’m looking to collaborate on Search Systems espercially Data Integration
+- 💞️ I’m looking to collaborate on building Search Systems Appliactions including Recommender Sytems.
 - 📫 How to reach me ...
 
 <!---
