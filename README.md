@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Thomas and I am a Javanista and also the lizard guy in the profile pic 
-- 👀 My interest are in backend development using the JVM-based languages such as Java and Kotlin.
-- Curently, I am in the process of adding Scala to the list....peace! 
+- 👋 Hi, I’m Thomas and I am a Javanista  
+- 👀 My interest are in backend development using JVM-based languages such as Java and Kotlin.
+ 
 
 
 <!---
